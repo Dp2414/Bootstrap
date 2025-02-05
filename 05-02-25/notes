@@ -1,0 +1,33 @@
+Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
+bootstrap reduces the css code 
+bootstrap is all about classes
+inversion of control
+Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
+-----layout and grid------
+     container:-
+     <div class="container"></div> //fixed-width
+     Container-Fluid:-
+     <div class="container-fluid"></div> //100% of width of screen size
+
+    * why used fixed with at all?
+    Desktop/screen
+     .Login Screen
+     .Static Website
+         1) realestate
+         2) Restaurant website
+         3) small medium scale website4
+
+         * why use container-fluid
+         it is always about percentage design
+           1) sidebar & main section
+          *screen-100%(mobile,ipad/tab/largescren/desktop)
+
+
+          container breakpoints
+          -sm
+          -md
+          -lg
+          -xl
+          -xxl
+          -fluid
+          
