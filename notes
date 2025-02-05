@@ -30,4 +30,9 @@ Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from 
           -xl
           -xxl
           -fluid
-          
+   to ensure readabilty  the bootstrap automatically assign its text color based on contrast ratio    ...   
+the primary,secondary,success,danger and dark these colors are dark so the bootstrap automatically assigns white text to it ..
+
+where as the warning,info,light colors are light so the bootstrap assigns black text 
+
+Bootstrap automatically chooses the best text color (black or white) based on contrast rules...
